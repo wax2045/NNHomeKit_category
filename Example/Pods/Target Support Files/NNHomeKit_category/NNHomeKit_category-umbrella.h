@@ -10,6 +10,7 @@
 #endif
 #endif
 
+#import "CTMediator+Home.h"
 
 FOUNDATION_EXPORT double NNHomeKit_categoryVersionNumber;
 FOUNDATION_EXPORT const unsigned char NNHomeKit_categoryVersionString[];

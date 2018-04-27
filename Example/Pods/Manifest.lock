@@ -1,16 +1,50 @@
 PODS:
-  - NNHomeKit_category (0.1.0)
+  - AFNetworking (3.2.0):
+    - AFNetworking/NSURLSession (= 3.2.0)
+    - AFNetworking/Reachability (= 3.2.0)
+    - AFNetworking/Security (= 3.2.0)
+    - AFNetworking/Serialization (= 3.2.0)
+    - AFNetworking/UIKit (= 3.2.0)
+  - AFNetworking/NSURLSession (3.2.0):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.2.0)
+  - AFNetworking/Security (3.2.0)
+  - AFNetworking/Serialization (3.2.0)
+  - AFNetworking/UIKit (3.2.0):
+    - AFNetworking/NSURLSession
+  - CTMediator (16)
+  - MJExtension (3.0.13)
+  - NNAPIsKit (0.1.2):
+    - AFNetworking
+    - MJExtension
+  - NNHomeKit_category (0.1.1):
+    - CTMediator
+    - NNAPIsKit
 
 DEPENDENCIES:
   - NNHomeKit_category (from `../`)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - AFNetworking
+    - CTMediator
+    - MJExtension
+  https://github.com/wax2045/NNSpecs.git:
+    - NNAPIsKit
 
 EXTERNAL SOURCES:
   NNHomeKit_category:
     :path: "../"
 
 SPEC CHECKSUMS:
-  NNHomeKit_category: 4f3da89f2f8d641c3b95ed3ef0fcb86a67ede664
+  AFNetworking: 8ac6017b94ea105479f7776e5288e48ae9c59bb4
+  CTMediator: cf621c17f331aef82a804a404de4fe14d01863ee
+  MJExtension: 5932755f451458eefa24239358817f8d291240c7
+  NNAPIsKit: 1d9a1baf606228e75958e7808ac41d694a20036f
+  NNHomeKit_category: 9bdcd72e102000fd5c4e68df472abef16fb53f7e
 
-PODFILE CHECKSUM: 50fcda6953c4f12859b2d16530e495aedbde816c
+PODFILE CHECKSUM: 1d2b45a22a4932c434fdcb22372d8fc802509506
 
 COCOAPODS: 1.5.0

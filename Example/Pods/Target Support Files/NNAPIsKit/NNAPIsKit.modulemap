@@ -1,0 +1,6 @@
+framework module NNAPIsKit {
+  umbrella header "NNAPIsKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
