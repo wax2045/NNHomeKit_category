@@ -1,0 +1,16 @@
+PODS:
+  - NNHomeKit_category (0.1.0)
+
+DEPENDENCIES:
+  - NNHomeKit_category (from `../`)
+
+EXTERNAL SOURCES:
+  NNHomeKit_category:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  NNHomeKit_category: 4f3da89f2f8d641c3b95ed3ef0fcb86a67ede664
+
+PODFILE CHECKSUM: 50fcda6953c4f12859b2d16530e495aedbde816c
+
+COCOAPODS: 1.5.0

@@ -38,7 +38,7 @@
 
 /* Begin PBXFileReference section */
 		39A647C398CC6ADCADF5E95C /* Pods_NNHomeKit_category_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_NNHomeKit_category_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		543B53086AEBDD0006F83AC2 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		543B53086AEBDD0006F83AC2 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		6003F58A195388D20070C39A /* NNHomeKit_category_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NNHomeKit_category_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6003F58D195388D20070C39A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		6003F58F195388D20070C39A /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -65,8 +65,8 @@
 		A9994A60636B32B38EDF5770 /* Pods-NNHomeKit_category_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-NNHomeKit_category_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-NNHomeKit_category_Tests/Pods-NNHomeKit_category_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		B2B056691945333E748929D8 /* Pods_NNHomeKit_category_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_NNHomeKit_category_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		C71A0FB9FEDDCCF84DC1F005 /* Pods-NNHomeKit_category_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-NNHomeKit_category_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-NNHomeKit_category_Tests/Pods-NNHomeKit_category_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		E15EC6F5F91AF45B7181EA4C /* NNHomeKit_category.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = NNHomeKit_category.podspec; path = ../NNHomeKit_category.podspec; sourceTree = "<group>"; };
-		EFBF68BA44CBA8DB17E96878 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		E15EC6F5F91AF45B7181EA4C /* NNHomeKit_category.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = NNHomeKit_category.podspec; path = ../NNHomeKit_category.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		EFBF68BA44CBA8DB17E96878 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */

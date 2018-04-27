@@ -1,0 +1,6 @@
+framework module NNHomeKit_category {
+  umbrella header "NNHomeKit_category-umbrella.h"
+
+  export *
+  module * { export * }
+}
