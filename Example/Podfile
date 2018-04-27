@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'NNHomeKit_category_Example' do
+  pod 'NNHomeKit_category', :path => '../'
+
+  target 'NNHomeKit_category_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
