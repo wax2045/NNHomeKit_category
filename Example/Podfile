@@ -1,3 +1,5 @@
+source 'https://github.com/wax2045/NNSpecs.git'
+source 'https://github.com/CocoaPods/Specs.git'
 use_frameworks!
 
 target 'NNHomeKit_category_Example' do
